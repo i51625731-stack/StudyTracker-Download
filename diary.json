@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-11-01",
+    "version": "1.1",
+    "title": "Dark theme is ready",
+    "text": "The dark theme is finished. You can switch it in Settings, and the app remembers your choice. It will arrive with version 1.1, together with this diary and a way to support the project."
+  },
+  {
+    "date": "2026-10-27",
+    "version": "1.0.2",
+    "title": "Version 1.0.2 is out",
+    "text": "Stronger password rules, clear error messages, a limit of 24 hours of study per day, and a better layout on large screens. Thanks to everyone who reported bugs!"
+  }
+]
