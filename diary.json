@@ -1,4 +1,9 @@
-[
+[  {
+    "date": "2026-11-01",
+    "version": "1.1",
+    "title": "StudyTracker 1.1 is out",
+    "text": "Dark theme is here: switch it in Settings → Appearance, it applies instantly without a reload. This Devlog is new too — updates and plans will appear here. And there is a new Support section with links to GitHub, Instagram and TikTok. Thank you for studying with StudyTracker!"
+  },
   {
     "date": "2026-11-01",
     "version": "1.1",
