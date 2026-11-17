@@ -1,3 +1,10 @@
+  {
+    "date": "2026-11-17",
+    "version": "1.2",
+    "title": "Russian is coming",
+    "text": "Work on version 1.2 has started. The first step is a Russian interface: the side menu already speaks Russian in the development build. Next come the language switch in Settings and the rest of the screens."
+  },
+
 [  {
     "date": "2026-11-01",
     "version": "1.1",
